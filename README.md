@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sidhi-vij
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning front end languages as html,css,js and also going through practice of pyhton.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m frontend developer with skill set of HTML, CSS, ReactJS, NextJS, Bootstrap, Talwind CSS.
 - 📫 Can reach me via : vijsidhi@gmail.com
 
 <!---
